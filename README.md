@@ -33,4 +33,4 @@
 ![Scores_by_School_Size](Scores_by_School_Size.jpg)
 ![Scores_by_School_Type](Scores_by_School_Type.jpg)
 ## Conclusions
-The net effect of the omission of the Thomas High School 9th graders is almost negligible. Why? Thomas High School appears to be a high performing charter school in a historical sense since their 10th - 12th graders performed excellently when compared to their peer classes.  Hence, the high-level findings of the original report do not differ much at all from this updated report.
+The net effect of the omission of the Thomas High School 9th graders is almost negligible. Why? Thomas High School appears to be a high performing charter school in a historical sense since their 10th - 12th graders performed excellently when compared to their peer classes.  Hence, the high-level findings of the original report do not differ much at all from this updated report.  If one thinks about this logically, it makes sense.  We are essentially throwing out 461 data points in a data set of over 39000 data points - this is extremely negligible on a percentage basis.  
