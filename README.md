@@ -18,6 +18,7 @@
 ![Deliverable_2_Steps3_4](Deliverable_2_Steps3_4.jpg)
 ![Deliverable_2_Steps5_12](Deliverable_2_Steps5_12.jpg)
 ![Deliverable_2_Steps13_14](Deliverable_2_Steps13_14.jpg)
+![Thomas_High_School_Nan_Data](Thomas_High_School_Nan_Data.jpg)
 ![High_and_Low_Performing_Schools](High_and_Low_Performing_Schools.jpg)
 ![Average_Math_and_Reading_Scores_By_Grade](Average_Math_and_Reading_Scores_By_Grade.jpg)
 ![Scores_by_School_Spending_Per_Student](Scores_by_School_Spending_Per_Student.jpg)
