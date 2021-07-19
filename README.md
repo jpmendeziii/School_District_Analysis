@@ -13,6 +13,7 @@
 
 ### Therefore, the report deliverable has pivoted to a data scrub of the Thomas High School 9th grade data and a revised version of this report.  The deliverables pictured below will show display some of the code and visuals necessary to complete said analysis.
 ![Deliverable_1_Steps1_4](Deliverable_1_Steps1_4.jpg)
+### For Deliverable 2, this report focused on the functional removing of the Thomas High School 9th grade data and the subsequent effects this data change - please see code and visualizations below.
 ![Deliverable_2_Steps1_2](Deliverable_2_Steps1_2.jpg)
 ![Deliverable_2_Steps3_4](Deliverable_2_Steps3_4.jpg)
 ![Deliverable_2_Steps5_12](Deliverable_2_Steps5_12.jpg)
