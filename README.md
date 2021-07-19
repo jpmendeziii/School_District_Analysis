@@ -8,7 +8,7 @@
 - Percentage of students who passed math
 - Percentage of students who passed reading
 - Overall passing percentage
-
+## However, feedback from the board and Maria's supervisor expanded the report to include multiple dataframes which included high and low peforming schools, average math and reading scores by grade, scores by school spending per student, scoring data by school size and type.  
 ![Deliverable_1_Steps1_4](Deliverable_1_Steps1_4.jpg)
 ![Deliverable_2_Steps1_2](Deliverable_2_Steps1_2.jpg)
 ![Deliverable_2_Steps3_4](Deliverable_2_Steps3_4.jpg)
