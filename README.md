@@ -1,5 +1,14 @@
 # School_District_Analysis
-This GitHub repository is created to assist Maria's team for school district analysis utilizing Anaconda, Jupyter Notebook and Python tools.
+## This GitHub repository is created to assist Maria's team for school district analysis utilizing Anaconda, Jupyter Notebook and Python tools.  Originally this report was supposed to be a high-level snapshot of the districts in Py City Schools focusing on the following key metrics.
+- Total number of students
+- Total number of schools
+- Total budget
+- Average math score
+- Average reading score
+- Percentage of students who passed math
+- Percentage of students who passed reading
+- Overall passing percentage
+
 ![Deliverable_1_Steps1_4](Deliverable_1_Steps1_4.jpg)
 ![Deliverable_2_Steps1_2](Deliverable_2_Steps1_2.jpg)
 ![Deliverable_2_Steps3_4](Deliverable_2_Steps3_4.jpg)
