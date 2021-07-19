@@ -23,7 +23,7 @@
 ![High_and_Low_Performing_Schools](High_and_Low_Performing_Schools.jpg)
 ### This is an interesting graphic for high and low performing schools - Note that all of the low performing schools come from Districts and all of the high performing schools come from Charter schools.  I will dig a litter deeper into this later.
 ![Average_Math_and_Reading_Scores_By_Grade](Average_Math_and_Reading_Scores_By_Grade.jpg)
-There is no discernable performance difference within each school’s grade classes.
+### There is no discernable performance difference within each school’s grade classes.
 ![Scores_by_School_Spending_Per_Student](Scores_by_School_Spending_Per_Student.jpg)
 ![Scores_by_School_Spending_Per_Student_Bins](Scores_by_School_Spending_Per_Student_Bins.jpg)
 ![Scores_by_School_Size](Scores_by_School_Size.jpg)
