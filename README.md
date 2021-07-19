@@ -26,6 +26,10 @@
 ### There is no discernable performance difference within each school’s grade classes.
 ![Scores_by_School_Spending_Per_Student](Scores_by_School_Spending_Per_Student.jpg)
 ![Scores_by_School_Spending_Per_Student_Bins](Scores_by_School_Spending_Per_Student_Bins.jpg)
+### The two charts above regarding school spending are fascinating.  The data on face level shows that there is a strong correlation in school spending being a detriment to student performance.  This is lazy analysis, of course because there are a few factors at play here.
+1.	Be mindful of the charter school v. district school performance disparity as noted in previous graphics
+2.	Also note the district schools tend to be much larger, and thus teaching resources are spread much thinner and class sizes are much larger in these district schools
+3.	Notice that the charter school funding is less, but almost on par with district school funds per student.  This is somewhat puzzling since charter schools have private funding arms which are potentially substantial.
 ![Scores_by_School_Size](Scores_by_School_Size.jpg)
 ![Scores_by_School_Type](Scores_by_School_Type.jpg)
 ## Conclusions
