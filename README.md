@@ -19,7 +19,7 @@
 ![Deliverable_2_Steps5_12](Deliverable_2_Steps5_12.jpg)
 ![Deliverable_2_Steps13_14](Deliverable_2_Steps13_14.jpg)
 ![Thomas_High_School_Nan_Data](Thomas_High_School_Nan_Data.jpg)
-### Please reference last 2 visualizations above.  Note the change for Thomas High School data was due to the NaN insertions for the 9th graders on the visualization directly above.  The Thomas High School data for the 10th - 12th graders on a step by step basis from the code and calculations show they performed at a high level for % Passing Math, % Passing Reading, and subsequentally a high overall passing grade was achieved at 90.6%.
+### Please reference last 2 visualizations above.  Note the change for Thomas High School data was due to the NaN insertions for the 9th graders on the visualization directly above.  The Thomas High School data for the 10th - 12th graders on a step by step basis from the code and calculations show they performed at a high level for % Passing Math, % Passing Reading, and subsequentally a high overall passing grade was achieved at 90.6%.  The net effect of the ommission of the Thomas High School 9th graders is almost negligible.  Why?  Thomas High School appears to be a high performing charter school in a historical sense, since their 10th - 12th graders performed excellently when compared to their peer classes.
 ![High_and_Low_Performing_Schools](High_and_Low_Performing_Schools.jpg)
 ### This is an interesting graphic for high and low performing schools - Note that all of the low performing schools come from Districts and all of the high performing schools come from Charter schools.  I will dig a litter deeper into this later.
 ![Average_Math_and_Reading_Scores_By_Grade](Average_Math_and_Reading_Scores_By_Grade.jpg)
